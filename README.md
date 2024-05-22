@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=550&lines=⚠️𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐌𝐘+𝐏𝐑𝐎𝐅𝐈𝐋𝐄+𝐌𝐘+𝐍𝐀𝐌𝐄+𝐈𝐒+𝐂𝐇𝐈𝐍𝐍𝐔⚠️">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=570&lines=⚠️𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐌𝐘+𝐏𝐑𝐎𝐅𝐈𝐋𝐄+𝐌𝐘+𝐍𝐀𝐌𝐄+𝐈𝐒+𝐂𝐇𝐈𝐍𝐍𝐔⚠️">
 </h1>     
   
 <p align="center">
